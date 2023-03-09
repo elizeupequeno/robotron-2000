@@ -1,6 +1,6 @@
 # robotron-2000
 
-![preview](./.github/preview.jpeg)
+![preview](./.github/preview.png)
 
  Projeto robotron 2000
 
